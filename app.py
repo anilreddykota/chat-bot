@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import os
 
-app = Flask(_name_)  # Fix for Flask app initialization
+app = Flask(__name__)  # Fix for Flask app initialization
 CORS(app)
 
 def load_data():
@@ -61,6 +61,6 @@ def chat():
 def handler(event, context):
     return app(event, context)
 
-if _name_ == '__main__':
+if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
