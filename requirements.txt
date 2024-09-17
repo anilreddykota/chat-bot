@@ -1,0 +1,8 @@
+Flask
+Werkzeug==2.1.2
+gunicorn
+pandas
+flask-cors
+transformers
+torch
+scikit-learn

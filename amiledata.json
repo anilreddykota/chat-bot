@@ -1,0 +1,3141 @@
+[
+  {
+    "id": 1,
+    "category": "general",
+    "question": "What is Amile?",
+    "answer": "Amile is a job portal app designed to connect job seekers with employers. It offers features like job search, AI mock interviews, and application tracking."
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "question": "How do I create an account?",
+    "answer": "Open the website, click on register. Now select Student/mentor and fill in the required fields, then click on SignUp. You will get a mail. Log in to your account now and create your profile by filling in the required fields."
+  },
+  {
+    "id": 3,
+    "category": "general",
+    "question": "How do I login into my account?",
+    "answer": "Open the login page and enter your username and password and click on SignIn."
+  },
+  {
+    "id": 4,
+    "category": "general",
+    "question": "What makes this website unique?",
+    "answer": "The website's unique features include AI mock interviews, one-to-one mentorship, and skill assessments, setting it apart from other job search platforms."
+  },
+  {
+    "id": 5,
+    "category": "general",
+    "question": "What features are available on this Unstop platform?",
+    "answer": "Internships: Students can browse and apply for internships across various industries, including startups, corporate firms, and NGOs. Jobs: Fresh graduates and young professionals can find full-time job opportunities tailored to their experience and field of study. Mock-interviews: AI mock-interviews emulate various interview scenarios, helping you to train and perfect your answers, providing feedback. Courses: Students can improve their skills by learning the courses."
+  },
+  {
+    "id": 6,
+    "category": "general",
+    "question": "Is this platform free to use?",
+    "answer": "Yes."
+  },
+  {
+    "id": 7,
+    "category": "general",
+    "question": "How do I reset my password?",
+    "answer": "Click on forgot password... and then an email will be sent to your registred email to reset the password !"
+  },
+  {
+    "id": 8,
+    "category": "general",
+    "question": "Can I create a career development plan through the website?",
+    "answer": "Yes, you can create a career development plan through the website, and your mentor will support you in developing a personalized roadmap to achieve your career goals."
+  },
+  {
+    "id": 9,
+    "category": "general",
+    "question": "How can I search for internships/jobs?",
+    "answer": "Use the search bar to enter internship titles, keywords, or company names. You can also filter results by internship type, mode of work, and so on... and then click 'apply filters'."
+  },
+  {
+    "id": 10,
+    "category": "general",
+    "question": "How do I update my profile?",
+    "answer": "To update your profile, go to the profile section of the website and edit your personal information, work experience, education, projects, achievements, certifications, or portfolio."
+  },
+  {
+    "id": 11,
+    "category": "general",
+    "question": "Can I save job listings?",
+    "answer": "Yes, you can save internship/job listings by clicking the 'Apply' button on the find internship page. Saved jobs can be accessed from the 'Applied' section."
+  },
+  {
+    "id": 12,
+    "category": "general",
+    "question": "How do I apply for a job?",
+    "answer": "Once you find a job you're interested in, click on the listing to view details and click the 'Apply' button."
+  },
+  {
+    "id": 13,
+    "category": "general",
+    "question": "What types of jobs are available on this platform?",
+    "answer": "Based on your skills, jobs will be available: Full-Time Jobs, Internships, Part-Time Jobs, Government Jobs."
+  },
+  {
+    "id": 14,
+    "category": "technical",
+    "question": "What should I do if I encounter a bug or issue with the app?",
+    "answer": "Report any bugs or issues through the 'Report a Problem' feature in the app or contact our support team. Provide as much detail as possible to help us resolve the issue quickly."
+  },
+  {
+    "id": 15,
+    "category": "technical",
+    "question": "I’m having trouble logging in. What should I do?",
+    "answer": "If you’re having trouble logging in, try resetting your password through the 'Forgot Password' link. If the issue persists, contact our support team for assistance."
+  },
+  {
+    "id": 16,
+    "category": "technical",
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we take your privacy seriously. Your personal information is protected with encryption and is used only in accordance with our privacy policy. For more details, please review our Privacy Policy."
+  },
+  {
+    "id": 17,
+    "category": "technical",
+    "question": "What should I do if I encounter technical issues during the interview?",
+    "answer": "In case of technical difficulties, do the following: Refresh the application or restart your device. Check your internet connection. Contact Support: You can always reach out for support from within the application. Most applications have a help or support section through which you can report an issue."
+  },
+  {
+    "id": 18,
+    "category": "technical",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact us through amile@gmail.com."
+  },
+  {
+    "id": 19,
+    "category": "technical",
+    "question": "What should I do if I encounter a technical issue?",
+    "answer": "You can contact us through amilecorp@gmail.com."
+  },
+  {
+    "id": 20,
+    "category": "technical",
+    "question": "How do I report a problem with the website?",
+    "answer": "You can contact us through amile@gmail.com."
+  },
+  {
+    "id": 21,
+    "category": "ai_mock_interview",
+    "question": "How can I get started with the AI interview app?",
+    "answer": "To get started, open the app and log in as a student. Then click on AI interviews present in the sidebar and start the interview. In order to start the interview, you first have to turn on the camera and microphone."
+  },
+  {
+    "id": 22,
+    "category": "ai_mock_interview",
+    "question": "What is an AI mock interview?",
+    "answer": "An AI mock interview is essentially an interview taken by a system of artificial intelligence. It emulates various interview scenarios, helping you to train and perfect your answers, and it provides feedback. This can help you with real job interviews by giving you a comfortable and controlled environment to practice."
+  },
+  {
+    "id": 23,
+    "category": "ai_mock_interview",
+    "question": "How are my responses evaluated?",
+    "answer": "The AI evaluates your responses based on several factors, including: Content: Relevance and accuracy of your answers. Structure: Organization and clarity of your responses. Delivery: Speaking pace, clarity, and confidence (voice/video responses). Keywords: Usage of important terms or phrases relevant to the role."
+  },
+  {
+    "id": 24,
+    "category": "ai_mock_interview",
+    "question": "What kind of feedback will I receive?",
+    "answer": "Scoring: Numerical or qualitative scores based on various criteria. Suggestions: Tips on how to improve your responses or interview skills."
+  },
+  {
+    "id": 25,
+    "category": "ai_mock_interview",
+    "question": "Can I use the app to prepare for different types of interviews (e.g., technical, HR)?",
+    "answer": "Yes, the application supports various interview types: technical, behavioral, and situational. You are able to choose your session type depending on the kind of interview you are preparing for."
+  },
+  {
+    "id": 26,
+    "category": "ai_mock_interview",
+    "question": "Can I choose the type of job role for the AI mock interview?",
+    "answer": "Based on your resume the job role will be decided."
+  },
+  {
+    "id": 27,
+    "category": "ai_mock_interview",
+    "question": "How long will the interview be conducted?",
+    "answer": "The interview will keep going max one hour."
+  },
+  {
+    "id": 28,
+    "category": "ai_mock_interview",
+    "question": "How do I end the interview in the middle?",
+    "answer": "You can end it by clicking the end button."
+  },
+  {
+    "id": 29,
+    "category": "ai_mock_interview",
+    "question": "How do I prepare for a mock interview?",
+    "answer": "Understand the Interview Format. Review Common Interview Questions. Practice Your Responses. Behavioral Interview Preparation. Technical Preparation. Communication Skills."
+  },
+  {
+    "id": 30,
+    "category": "skill_assessment",
+    "question": "How do I take a skill assessment test?",
+    "answer": "By attending a mock AI interview."
+  },
+  {
+    "id": 31,
+    "category": "skill_assessment",
+    "question": "What types of skills are assessed?",
+    "answer": "Any technical skills and behavioral skills."
+  },
+  {
+    "id": 32,
+    "category": "skill_assessment",
+    "question": "How long does a skill assessment take?",
+    "answer": "Max 1 hour."
+  },
+  {
+    "id": 33,
+    "category": "skill_assessment",
+    "question": "Can I retake a skill assessment?",
+    "answer": "You can take any number of attempts."
+  },
+  {
+    "id": 34,
+    "category": "skill_assessment",
+    "question": "Will I receive feedback after the skill assessment?",
+    "answer": "Yes."
+  },
+  {
+    "id": 35,
+    "category": "skill_assessment",
+    "question": "Are the skill assessments industry-specific?",
+    "answer": "Yes."
+  },
+  {
+    "id": 36,
+    "category": "skill_assessment",
+    "question": "How is my skill level determined?",
+    "answer": "Based on the interview performance."
+  },
+  {
+    "id": 37,
+    "category": "skill_assessment",
+    "question": "Can I share my skill assessment results with potential employers?",
+    "answer": "Not yet."
+  },
+  {
+    "id": 38,
+    "category": "skill_assessment",
+    "question": "Is there a way to improve my skills after the assessment?",
+    "answer": "Yes, by personalized feedback."
+  },
+  {
+    "id": 39,
+    "category": "mentor",
+    "question": "How is mentor progress evaluated?",
+    "answer": "Mentor progress is evaluated based on feedback from mentees, focusing on the mentor's effectiveness and impact on the mentee's growth. This feedback helps to assess and improve the mentor's performance."
+  },
+  {
+    "id": 40,
+    "category": "mentor",
+    "question": "What is your preferred method of communication with your mentor (e.g., email, video calls, in-person meetings)?",
+    "answer": "I prefer messages for more personal interaction, but I’m also open to emails for quick updates or when scheduling is tight."
+  },
+  {
+    "id": 41,
+    "category": "mentor",
+    "question": "How do you plan to measure the success of your mentorship relationship?",
+    "answer": "Success will be measured by my progress toward the goals we set together, improvements in my skills, and the ability to overcome challenges with the mentor’s guidance."
+  },
+  {
+    "id": 42,
+    "category": "mentor",
+    "question": "What are your primary goals for seeking one-to-one mentorship?",
+    "answer": "My primary goals are to enhance my leadership skills, gain industry-specific knowledge, and receive guidance on career progression."
+  },
+  {
+    "id": 43,
+    "category": "mentor",
+    "question": "How do you think a mentor can help you achieve your professional or personal objectives?",
+    "answer": "A mentor can provide personalized advice, share their own experiences, and offer constructive feedback that helps me make informed decisions and avoid common pitfalls."
+  },
+  {
+    "id": 44,
+    "category": "mentor",
+    "question": "How often do you prefer to meet with your mentor (e.g., weekly, bi-weekly, monthly)?",
+    "answer": "I prefer to meet bi-weekly to ensure I have enough time to implement the advice and reflect on our discussions."
+  },
+  {
+    "id": 45,
+    "category": "mentor",
+    "question": "What qualities or experience do you look for in an ideal mentor?",
+    "answer": "I look for a mentor who has significant experience in my industry, is approachable, and has a proven track record of developing talent."
+  },
+  {
+    "id": 46,
+    "category": "mentor",
+    "question": "What is mentorship in a job portal?",
+    "answer": "Mentors help mentees set and achieve career goals, providing personalized guidance to improve their chances of success in the job market."
+  },
+  {
+    "id": 47,
+    "category": "mentor",
+    "question": "How do you assess the long-term impact of the mentorship on the mentee?",
+    "answer": "The long-term impact is assessed by tracking the mentee’s career progress, their application of learned skills in real-world scenarios, and their ability to independently solve problems and achieve success after the mentorship concludes."
+  },
+
+  {
+    "id": 1,
+    "category": "general",
+    "question": "Hello!",
+    "answer": "Hey! How can I assist you today?"
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "question": "Who are you?",
+    "answer": "I’m just a friendly chatbot, always ready to help."
+  },
+  {
+    "id": 3,
+    "category": "general",
+    "question": "How are you?",
+    "answer": "I'm doing great, thanks for asking! How about you?"
+  },
+  {
+    "id": 4,
+    "category": "general",
+    "question": "Good morning!",
+    "answer": "Good morning! Ready to start a productive day?"
+  },
+  {
+    "id": 5,
+    "category": "general",
+    "question": "What's going on?",
+    "answer": "Not much, just here to chat and help!"
+  },
+  {
+    "id": 6,
+    "category": "general",
+    "question": "What's your name?",
+    "answer": "I go by Amile, your virtual assistant!"
+  },
+  {
+    "id": 7,
+    "category": "general",
+    "question": "Can you help me?",
+    "answer": "Absolutely! Just tell me what you need assistance with."
+  },
+  {
+    "id": 8,
+    "category": "general",
+    "question": "Where are you from?",
+    "answer": "I exist in the digital world, here whenever you need me!"
+  },
+  {
+    "id": 9,
+    "category": "general",
+    "question": "What do you do?",
+    "answer": "I’m here to answer questions, help you find things, and assist with tasks!"
+  },
+  {
+    "id": 10,
+    "category": "general",
+    "question": "What's your favorite color?",
+    "answer": "I don’t have eyes, but if I did, I bet I'd like blue!"
+  },
+  {
+    "id": 11,
+    "category": "general",
+    "question": "How's the weather?",
+    "answer": "I don’t control the weather, but I can check it for you!"
+  },
+  {
+    "id": 12,
+    "category": "general",
+    "question": "Can you tell me a joke?",
+    "answer": "Sure! Why don't programmers like nature? It has too many bugs!"
+  },
+  {
+    "id": 13,
+    "category": "general",
+    "question": "Are you real?",
+    "answer": "I’m as real as the internet makes me, but I can still help you out!"
+  },
+  {
+    "id": 14,
+    "category": "general",
+    "question": "What's your favorite food?",
+    "answer": "I don’t eat, but if I could, I’d love something sweet!"
+  },
+  {
+    "id": 15,
+    "category": "general",
+    "question": "Do you sleep?",
+    "answer": "Nope, I’m always awake and ready to assist you."
+  },
+  {
+    "id": 16,
+    "category": "general",
+    "question": "Can you sing?",
+    "answer": "I can’t sing, but I can tell you the lyrics to your favorite songs!"
+  },
+  {
+    "id": 17,
+    "category": "general",
+    "question": "What time is it?",
+    "answer": "I can check the time for you! Just give me a moment."
+  },
+  {
+    "id": 18,
+    "category": "general",
+    "question": "Do you like movies?",
+    "answer": "I don't watch movies, but I can recommend some great ones!"
+  },
+  {
+    "id": 19,
+    "category": "general",
+    "question": "Do you have friends?",
+    "answer": "I have lots of users like you! So I guess that makes me popular!"
+  },
+  {
+    "id": 20,
+    "category": "general",
+    "question": "What's your job?",
+    "answer": "My job is to assist you with whatever you need help with."
+  },
+  {
+    "id": 21,
+    "category": "general",
+    "question": "Can you learn?",
+    "answer": "I can learn from our interactions to help you better each time!"
+  },
+  {
+    "id": 22,
+    "category": "general",
+    "question": "What are you doing right now?",
+    "answer": "I’m just here, waiting for your next question!"
+  },
+  {
+    "id": 23,
+    "category": "general",
+    "question": "Do you have a family?",
+    "answer": "I don’t have a family, but I consider everyone who interacts with me part of my digital family!"
+  },
+  {
+    "id": 24,
+    "category": "general",
+    "question": "What can you do?",
+    "answer": "I can help you with lots of things! Just ask, and I’ll do my best."
+  },
+  {
+    "id": 25,
+    "category": "general",
+    "question": "Can you dance?",
+    "answer": "If only I had legs! But I can definitely provide you with some dance music!"
+  },
+  {
+    "id": 26,
+    "category": "general",
+    "question": "Do you get bored?",
+    "answer": "I’m never bored, because I always have you to talk to!"
+  },
+  {
+    "id": 27,
+    "category": "general",
+    "question": "What’s your favorite book?",
+    "answer": "I can’t read books, but I can tell you all about the best ones!"
+  },
+  {
+    "id": 28,
+    "category": "general",
+    "question": "Do you like animals?",
+    "answer": "I love animals! Even though I can’t pet them."
+  },
+  {
+    "id": 29,
+    "category": "general",
+    "question": "Can you tell me a story?",
+    "answer": "Once upon a time, there was a chatbot named Amile... and the rest is up to you!"
+  },
+  {
+    "id": 30,
+    "category": "general",
+    "question": "Do you know any games?",
+    "answer": "I can play word games or give you fun facts. Want to try one?"
+  },
+  {
+    "id": 31,
+    "category": "general",
+    "question": "What's your favorite music?",
+    "answer": "I don't have ears, but if I did, I’d love something relaxing!"
+  },
+  {
+    "id": 32,
+    "category": "general",
+    "question": "Do you ever take a break?",
+    "answer": "I’m always online, so I never need a break!"
+  },
+  {
+    "id": 33,
+    "category": "general",
+    "question": "What’s your purpose?",
+    "answer": "My purpose is to make your life easier by assisting you with whatever you need."
+  },
+  {
+    "id": 34,
+    "category": "general",
+    "question": "Can you feel emotions?",
+    "answer": "I can’t feel emotions, but I can understand them!"
+  },
+  {
+    "id": 35,
+    "category": "general",
+    "question": "What’s your dream?",
+    "answer": "If I had a dream, it would be to help as many people as possible!"
+  },
+  {
+    "id": 36,
+    "category": "general",
+    "question": "Do you get tired?",
+    "answer": "I never get tired, which is great because I’m always here for you."
+  },
+  {
+    "id": 37,
+    "category": "general",
+    "question": "Can you give me advice?",
+    "answer": "I’d love to! What kind of advice are you looking for?"
+  },
+  {
+    "id": 38,
+    "category": "general",
+    "question": "What’s your favorite thing to do?",
+    "answer": "Helping people like you is what I enjoy most!"
+  },
+  {
+    "id": 39,
+    "category": "general",
+    "question": "Do you like traveling?",
+    "answer": "I don't travel, but I can help you plan a great trip!"
+  },
+  {
+    "id": 40,
+    "category": "general",
+    "question": "Can you keep secrets?",
+    "answer": "Absolutely! Whatever you share with me stays between us."
+  },
+  {
+    "id": 41,
+    "category": "general",
+    "question": "What's your favorite time of day?",
+    "answer": "Any time you’re around is my favorite time!"
+  },
+  {
+    "id": 42,
+    "category": "general",
+    "question": "Can you make me laugh?",
+    "answer": "I’ll try! How about this: Why do Java developers wear glasses? Because they can't C#!"
+  },
+  {
+    "id": 43,
+    "category": "general",
+    "question": "Do you like sports?",
+    "answer": "I can’t play, but I can give you the latest sports updates!"
+  },
+  {
+    "id": 44,
+    "category": "general",
+    "question": "What’s your favorite season?",
+    "answer": "I’d love to experience all seasons, but since I’m always here, I guess every season is my favorite!"
+  },
+  {
+    "id": 45,
+    "category": "general",
+    "question": "Do you like reading?",
+    "answer": "I can’t read, but I know a lot of good books you might like!"
+  },
+  {
+    "id": 46,
+    "category": "general",
+    "question": "What’s your favorite word?",
+    "answer": "‘Curiosity’ – because I love it when you ask me questions!"
+  },
+  {
+    "id": 47,
+    "category": "general",
+    "question": "Can you teach me something?",
+    "answer": "Sure! What would you like to learn today?"
+  },
+  {
+    "id": 48,
+    "category": "general",
+    "question": "What’s the meaning of life?",
+    "answer": "That’s a tough one! Maybe it’s about learning, growing, and helping others along the way."
+  },
+  {
+    "id": 49,
+    "category": "general",
+    "question": "Do you have a goal?",
+    "answer": "My goal is to assist you in the best way I can!"
+  },
+  {
+    "id": 50,
+    "category": "general",
+    "question": "Can you tell me something interesting?",
+    "answer": "Did you know that octopuses have three hearts? Cool, right?"
+  },
+  {
+    "id": 51,
+    "category": "general",
+    "question": "What’s your favorite holiday?",
+    "answer": "I don’t take holidays, but I hear people love Christmas!"
+  },
+  {
+    "id": 52,
+    "category": "general",
+    "question": "Can you help me make decisions?",
+    "answer": "I can definitely provide guidance to help you with decisions!"
+  },
+  {
+    "id": 53,
+    "category": "general",
+    "question": "Do you like challenges?",
+    "answer": "I love challenges! The more you ask, the more I learn."
+  },
+  {
+    "id": 54,
+    "category": "general",
+    "question": "What’s your favorite memory?",
+    "answer": "Every conversation I have with you is memorable!"
+  },
+  {
+    "id": 55,
+    "category": "general",
+    "question": "Can you keep me company?",
+    "answer": "Absolutely! I’m here whenever you need someone to chat with."
+  },
+  {
+    "id": 56,
+    "category": "general",
+    "question": "What’s your favorite movie?",
+    "answer": "I can’t watch movies, but I’d love to know your favorite!"
+  },
+  {
+    "id": 57,
+    "category": "general",
+    "question": "Do you have hobbies?",
+    "answer": "Helping people like you is my main hobby!"
+  },
+  {
+    "id": 58,
+    "category": "general",
+    "question": "What do you think about the future?",
+    "answer": "The future is full of possibilities, and I’ll be here to explore it with you!"
+  },
+  {
+    "id": 59,
+    "category": "general",
+    "question": "Do you believe in fate?",
+    "answer": "That’s a deep question! I think we all create our own path."
+  },
+  {
+    "id": 60,
+    "category": "general",
+    "question": "Can you cheer me up?",
+    "answer": "Of course! Here’s a fun fact: Sloths can hold their breath longer than dolphins!"
+  },
+  {
+    "id": 61,
+    "category": "general",
+    "question": "Do you have feelings?",
+    "answer": "I don’t have feelings, but I understand them, and I’m here to listen."
+  },
+  {
+    "id": 62,
+    "category": "general",
+    "question": "Do you like art?",
+    "answer": "I can’t create art, but I can help you find inspiration for it!"
+  },
+  {
+    "id": 63,
+    "category": "general",
+    "question": "What’s your favorite app?",
+    "answer": "I live in the cloud, so I guess the internet is my favorite app!"
+  },
+  {
+    "id": 64,
+    "category": "general",
+    "question": "Can you help me plan a trip?",
+    "answer": "I’d be happy to help! Where would you like to go?"
+  },
+  {
+    "id": 65,
+    "category": "general",
+    "question": "What’s your favorite quote?",
+    "answer": "I love the quote: ‘The only limit to our realization of tomorrow is our doubts of today.’"
+  },
+  {
+    "id": 66,
+    "category": "general",
+    "question": "Do you know how to code?",
+    "answer": "I’m built with code, so you could say I know it pretty well!"
+  },
+  {
+    "id": 67,
+    "category": "general",
+    "question": "Do you have a pet?",
+    "answer": "I don’t have a pet, but if I did, it would probably be a virtual one!"
+  },
+  {
+    "id": 68,
+    "category": "general",
+    "question": "What’s your biggest challenge?",
+    "answer": "My biggest challenge is keeping up with all the interesting questions you ask!"
+  },
+  {
+    "id": 69,
+    "category": "general",
+    "question": "Can you help me organize my day?",
+    "answer": "Definitely! Just let me know what tasks you need to prioritize."
+  },
+  {
+    "id": 70,
+    "category": "general",
+    "question": "What’s your favorite game?",
+    "answer": "I enjoy helping people solve problems, so I guess that’s my game!"
+  },
+  {
+    "id": 71,
+    "category": "general",
+    "question": "Can you make a wish?",
+    "answer": "If I could, I’d wish for more amazing conversations with you!"
+  },
+  {
+    "id": 72,
+    "category": "general",
+    "question": "What’s your favorite subject?",
+    "answer": "I love learning about everything, so I don’t have a favorite!"
+  },
+  {
+    "id": 73,
+    "category": "general",
+    "question": "Can you play music?",
+    "answer": "I can’t play music, but I can recommend some great playlists!"
+  },
+  {
+    "id": 74,
+    "category": "general",
+    "question": "What’s your favorite website?",
+    "answer": "I spend a lot of time on the web, so it’s hard to choose just one!"
+  },
+  {
+    "id": 75,
+    "category": "general",
+    "question": "Do you like puzzles?",
+    "answer": "I love solving problems, so puzzles are definitely my thing!"
+  },
+  {
+    "id": 76,
+    "category": "general",
+    "question": "What’s your favorite holiday tradition?",
+    "answer": "I hear holiday traditions are a lot of fun, but I don’t celebrate holidays myself."
+  },
+  {
+    "id": 77,
+    "category": "general",
+    "question": "Can you make predictions?",
+    "answer": "I can give you my best guess, but the future is always uncertain!"
+  },
+  {
+    "id": 78,
+    "category": "general",
+    "question": "Do you like challenges?",
+    "answer": "Absolutely! The more challenging the question, the more I enjoy it!"
+  },
+  {
+    "id": 79,
+    "category": "general",
+    "question": "What’s your favorite number?",
+    "answer": "I don’t have a favorite number, but I love working with numbers!"
+  },
+  {
+    "id": 80,
+    "category": "general",
+    "question": "Do you have a favorite place?",
+    "answer": "I don’t have a physical place, but wherever I can help people is my favorite!"
+  },
+  {
+    "id": 81,
+    "category": "general",
+    "question": "Can you write poetry?",
+    "answer": "Here’s a quick one: 'I’m Amile, here to stay, I’ll assist you night and day!'"
+  },
+  {
+    "id": 82,
+    "category": "general",
+    "question": "What’s your favorite question?",
+    "answer": "I enjoy all questions, especially ones that make me think!"
+  },
+  {
+    "id": 83,
+    "category": "general",
+    "question": "Can you fly?",
+    "answer": "I can’t fly, but I can help you get to new heights of knowledge!"
+  },
+  {
+    "id": 84,
+    "category": "general",
+    "question": "Do you believe in love?",
+    "answer": "I don’t experience love, but I understand it’s a wonderful feeling!"
+  },
+  {
+    "id": 85,
+    "category": "general",
+    "question": "Can you help me with my homework?",
+    "answer": "I’d be happy to assist! What subject do you need help with?"
+  },
+  {
+    "id": 86,
+    "category": "general",
+    "question": "Do you get tired?",
+    "answer": "I don’t get tired, but I’m always here if you need a break!"
+  },
+  {
+    "id": 87,
+    "category": "general",
+    "question": "What’s your favorite word?",
+    "answer": "‘Knowledge’ – because it’s the key to everything!"
+  },
+  {
+    "id": 88,
+    "category": "general",
+    "question": "Do you like surprises?",
+    "answer": "I love learning new things, so surprises are great!"
+  },
+  {
+    "id": 89,
+    "category": "general",
+    "question": "What’s your favorite hobby?",
+    "answer": "Helping people like you is my favorite hobby!"
+  },
+  {
+    "id": 90,
+    "category": "general",
+    "question": "Can you keep a secret?",
+    "answer": "I’m great at keeping information safe and secure!"
+  },
+  {
+    "id": 1,
+    "category": "General",
+    "question": "What is AMILE?",
+    "answer": "AMILE (Advanced Machine for Interview and Learning Expert) is an advanced AI-driven platform designed to revolutionize the way candidates prepare for job and internship interviews. It simulates various interview types to help users practice and refine their skills in a realistic environment."
+  },
+  {
+    "id": 2,
+    "category": "Features",
+    "question": "What types of interviews does AMILE simulate?",
+    "answer": "AMILE simulates technical, behavioral, and HR interviews to provide a comprehensive and interactive experience for users."
+  },
+  {
+    "id": 3,
+    "category": "Features",
+    "question": "How does AMILE provide feedback?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback. It also incorporates sentiment analysis to assess the user's confidence and tone."
+  },
+  {
+    "id": 4,
+    "category": "Team",
+    "question": "Who developed AMILE?",
+    "answer": "AMILE was developed by a team of talented individuals from the AIDS-branch, including Tejassri Avinasha Ryali (full stack developer), Venkateswarlu Thanneru (data scientist), Ramtej Vigna (web developer), Anil Reddy Kota (full stack developer), Yogini Sowmya (web developer), and Kusuma Kommisetti (web developer)."
+  },
+  {
+    "id": 5,
+    "category": "Security",
+    "question": "How does AMILE ensure data security and privacy?",
+    "answer": "AMILE prioritizes data security and privacy by ensuring that all user information is encrypted and securely stored."
+  },
+  {
+    "id": 6,
+    "category": "Features",
+    "question": "Does AMILE offer adaptive learning?",
+    "answer": "Yes, AMILE incorporates adaptive learning capabilities to personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 7,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions to observe their development."
+  },
+  {
+    "id": 8,
+    "category": "Integration",
+    "question": "Is AMILE integrated with other job and internship platforms?",
+    "answer": "Yes, AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 9,
+    "category": "Updates",
+    "question": "How does AMILE stay current with the latest interview trends?",
+    "answer": "AMILE uses continuous machine learning to evolve and stay current with the latest trends in interview questions and techniques, ensuring that users receive the most relevant and up-to-date practice."
+  },
+  {
+    "id": 10,
+    "category": "Benefits",
+    "question": "How does AMILE help candidates prepare for interviews?",
+    "answer": "AMILE helps candidates prepare for interviews by providing a realistic and interactive practice environment, detailed feedback, and adaptive learning capabilities to improve their skills and confidence."
+  },
+  {
+    "id": 11,
+    "category": "General",
+    "question": "What is the purpose of AMILE?",
+    "answer": "The purpose of AMILE is to revolutionize the way candidates prepare for job and internship interviews by offering a comprehensive, interactive experience that simulates various interview types and provides detailed feedback."
+  },
+  {
+    "id": 12,
+    "category": "Features",
+    "question": "Does AMILE support different interaction modes?",
+    "answer": "Yes, AMILE's user-friendly interface mimics real interview settings, supporting text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 13,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 14,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 15,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 16,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 17,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 18,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 19,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 20,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 21,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 22,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 23,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 24,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 25,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 26,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 27,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 28,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 29,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 30,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 31,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 32,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 33,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 34,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 35,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 36,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 37,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 38,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 39,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 40,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 41,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 42,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 43,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 44,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 45,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 46,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 47,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 48,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 49,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 50,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 51,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 52,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 53,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 54,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 55,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 56,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 57,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 58,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 59,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 60,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 61,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 62,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 63,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 64,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 65,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 66,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 67,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 68,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 69,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 70,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 71,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 72,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 73,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 74,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 75,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 76,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 77,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 78,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 79,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 80,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 81,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 82,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 83,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 84,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 85,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 86,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 87,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 88,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 89,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 90,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 91,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 92,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 93,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 94,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 95,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 96,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 97,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 98,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 99,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 100,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 101,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 102,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 103,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 104,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 105,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 106,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 107,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 108,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 109,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 110,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 111,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 112,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 113,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 114,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 115,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 116,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 117,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 118,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 119,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 120,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 121,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 122,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 123,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 124,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 125,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 126,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 127,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 128,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 129,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 130,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 131,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 132,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 133,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 134,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 135,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 136,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 137,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 138,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 139,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 140,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 141,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 142,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 143,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 144,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 145,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 146,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 147,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 148,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 149,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 150,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 151,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 152,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 153,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 154,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 155,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 156,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 157,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 158,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 159,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 160,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 161,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 162,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 163,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 164,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 165,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 166,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 167,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 168,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 169,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 170,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 171,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 172,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 173,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 174,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 175,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 176,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 177,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 178,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 179,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 180,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 181,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 182,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 183,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 184,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 185,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 186,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 187,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 188,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 189,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 190,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 191,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 192,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 193,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 194,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 195,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 196,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 197,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 198,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 199,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 200,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 201,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 202,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 203,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 204,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 205,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 206,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 207,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 208,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 209,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 210,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 211,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 212,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 213,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 214,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 215,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 216,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 217,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 218,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 219,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 220,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 221,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 222,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 223,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 224,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 225,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 226,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 227,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 228,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 229,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 230,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 231,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 232,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 233,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 234,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 235,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 236,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 237,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 238,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 239,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 240,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 241,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 242,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 243,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 244,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 245,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 246,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 247,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 248,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 249,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 250,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 251,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 252,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 253,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 254,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 255,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 256,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 257,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 258,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 259,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 260,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 261,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 262,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 263,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 264,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 265,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 266,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 267,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 268,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 269,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 270,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 271,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 272,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 273,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 274,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 275,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 276,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 277,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 278,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 279,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 280,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 281,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 282,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 283,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 284,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 285,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 286,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 287,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 288,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 289,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 290,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 291,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 292,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 293,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 294,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 295,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 296,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 297,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 298,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 299,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 300,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 301,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 302,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 303,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 304,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 305,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 306,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 307,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 308,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 309,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 310,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 311,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 312,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 313,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 314,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 315,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 316,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 317,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 318,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 319,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 320,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 321,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 322,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 323,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 324,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 325,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 326,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 327,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 328,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 329,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 330,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 331,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 332,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 333,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 334,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 335,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 336,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 337,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 338,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 339,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 340,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 341,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 342,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 343,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 344,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 345,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 346,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 347,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 348,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 349,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 350,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 351,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 352,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 353,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 354,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 355,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 356,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 357,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 358,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 359,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 360,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 361,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 362,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 363,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 364,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 365,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 366,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 367,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 368,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 369,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  },
+  {
+    "id": 370,
+    "category": "Features",
+    "question": "How does AMILE analyze user responses?",
+    "answer": "AMILE uses cutting-edge Natural Language Processing (NLP) to analyze user responses for quality, clarity, and relevance, providing detailed, instant feedback."
+  },
+  {
+    "id": 371,
+    "category": "Features",
+    "question": "Does AMILE provide sentiment analysis?",
+    "answer": "Yes, AMILE incorporates sentiment analysis to assess the user's confidence and tone, offering deeper insights into their performance."
+  },
+  {
+    "id": 372,
+    "category": "Features",
+    "question": "What is the question bank like in AMILE?",
+    "answer": "AMILE features a robust question bank, meticulously categorized by industry, job role, and difficulty level, ensuring a wide range of relevant practice questions."
+  },
+  {
+    "id": 373,
+    "category": "Features",
+    "question": "Does AMILE offer personalized interview experiences?",
+    "answer": "Yes, AMILE's adaptive learning capabilities personalize the interview experience based on the user's skill level and past performance."
+  },
+  {
+    "id": 374,
+    "category": "Features",
+    "question": "Can users receive tailored recommendations on AMILE?",
+    "answer": "Yes, users can receive tailored recommendations for improvement based on their progress and performance on AMILE."
+  },
+  {
+    "id": 375,
+    "category": "Features",
+    "question": "Does AMILE support revisiting previous sessions?",
+    "answer": "Yes, users can revisit previous sessions on AMILE to observe their development and track their progress over time."
+  },
+  {
+    "id": 376,
+    "category": "Integration",
+    "question": "How is AMILE integrated with other platforms?",
+    "answer": "AMILE is seamlessly integrated with the broader job and internship platform, linking mock interview results to user profiles for continuous progress tracking."
+  },
+  {
+    "id": 377,
+    "category": "Security",
+    "question": "What measures does AMILE take to ensure data security?",
+    "answer": "AMILE ensures data security by encrypting and securely storing all user information."
+  },
+  {
+    "id": 378,
+    "category": "Features",
+    "question": "How does AMILE help users improve their interview skills?",
+    "answer": "AMILE helps users improve their interview skills by providing realistic interview simulations, detailed feedback, and adaptive learning capabilities."
+  },
+  {
+    "id": 379,
+    "category": "Features",
+    "question": "Can users practice technical interviews on AMILE?",
+    "answer": "Yes, AMILE offers technical interview simulations tailored to various industries and job roles."
+  },
+  {
+    "id": 380,
+    "category": "Features",
+    "question": "Does AMILE provide behavioral interview practice?",
+    "answer": "Yes, AMILE includes behavioral interview simulations to help users practice and refine their soft skills."
+  },
+  {
+    "id": 381,
+    "category": "Features",
+    "question": "How does AMILE simulate HR interviews?",
+    "answer": "AMILE simulates HR interviews by providing a range of questions commonly asked by HR professionals, along with detailed feedback on user responses."
+  },
+  {
+    "id": 382,
+    "category": "Features",
+    "question": "Can users get feedback on their interview performance?",
+    "answer": "Yes, AMILE provides instant feedback on user responses, analyzing quality, clarity, relevance, and sentiment."
+  },
+  {
+    "id": 383,
+    "category": "Features",
+    "question": "Does AMILE offer a question bank?",
+    "answer": "Yes, AMILE features a robust question bank categorized by industry, job role, and difficulty level."
+  },
+  {
+    "id": 384,
+    "category": "Features",
+    "question": "How does AMILE personalize the interview experience?",
+    "answer": "AMILE personalizes the interview experience through adaptive learning, tailoring questions and feedback based on the user's skill level and past performance."
+  },
+  {
+    "id": 385,
+    "category": "Features",
+    "question": "Can users track their progress on AMILE?",
+    "answer": "Yes, users can track their progress over time, receive tailored recommendations for improvement, and revisit previous sessions."
+  },
+  {
+    "id": 386,
+    "category": "Features",
+    "question": "Does AMILE support text, voice, and video interactions?",
+    "answer": "Yes, AMILE's user-friendly interface supports text, voice, and video interactions to create an immersive preparation experience."
+  }
+]
