@@ -2,7 +2,7 @@ import os
 import torch
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from transformers import BertTokenizer, BertModel
+from transformers import DistilBertTokenizer, DistilBertModel
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
@@ -24,15 +24,15 @@ def load_data():
     df = pd.read_json(file_path)
     return df['question'].tolist(), df['answer'].tolist()
 
-# Function to load BERT tokenizer and model
+# Function to load DistilBERT tokenizer and model
 def load_bert_model():
     global tokenizer, model
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    model = BertModel.from_pretrained('bert-base-uncased')
+    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+    model = DistilBertModel.from_pretrained('distilbert-base-uncased')
 
-# Function to get embeddings using BERT
+# Function to get embeddings using DistilBERT
 def get_embeddings(texts):
-    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=512)
+    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=128 ,)
     with torch.no_grad():
         outputs = model(**inputs)
     return outputs.last_hidden_state.mean(dim=1)
@@ -99,4 +99,4 @@ def handler(event, context):
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
-    app.run(host='0.0.0.0', port=port)
+    app.run(debug=True,port=port)
