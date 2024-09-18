@@ -2,7 +2,7 @@ import os
 import torch
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from transformers import DistilBertTokenizer, DistilBertModel
+from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
@@ -16,9 +16,6 @@ question_embeddings = None
 questions = []
 answers = []
 
-# Check if GPU is available
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
 # Function to load data
 def load_data():
     file_path = os.path.join(os.path.dirname(__file__), 'amiledata.json')
@@ -27,18 +24,18 @@ def load_data():
     df = pd.read_json(file_path)
     return df['question'].tolist(), df['answer'].tolist()
 
-# Function to load DistilBERT tokenizer and model
+# Function to load BERT tokenizer and model
 def load_bert_model():
     global tokenizer, model
-    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-    model = DistilBertModel.from_pretrained('distilbert-base-uncased').to(device)  # Load model to GPU if available
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    model = BertModel.from_pretrained('bert-base-uncased')
 
 # Function to get embeddings using BERT
 def get_embeddings(texts):
-    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=256).to(device)
+    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=512)
     with torch.no_grad():
         outputs = model(**inputs)
-    return outputs.last_hidden_state.mean(dim=1).cpu()  # Move result back to CPU for cosine similarity
+    return outputs.last_hidden_state.mean(dim=1)
 
 # Precompute and Cache Question Embeddings
 def cache_question_embeddings():
