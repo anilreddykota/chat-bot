@@ -5,6 +5,7 @@ from flask_cors import CORS
 from transformers import DistilBertTokenizer, DistilBertModel
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
+import pickle
 
 app = Flask(__name__)
 CORS(app)
@@ -15,6 +16,8 @@ model = None
 question_embeddings = None
 questions = []
 answers = []
+
+EMBEDDING_CACHE_FILE = 'embeddings_cache.pkl'
 
 # Function to load data
 def load_data():
@@ -27,20 +30,41 @@ def load_data():
 # Function to load DistilBERT tokenizer and model
 def load_bert_model():
     global tokenizer, model
-    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-    model = DistilBertModel.from_pretrained('distilbert-base-uncased')
+    if tokenizer is None or model is None:
+        print("Loading DistilBERT model...")
+        tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+        model = DistilBertModel.from_pretrained('distilbert-base-uncased')
 
 # Function to get embeddings using DistilBERT
 def get_embeddings(texts):
-    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=128 ,)
+    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True, max_length=128)
     with torch.no_grad():
         outputs = model(**inputs)
     return outputs.last_hidden_state.mean(dim=1)
 
+# Cache Embeddings to Disk
+def cache_embeddings_to_disk(embeddings):
+    with open(EMBEDDING_CACHE_FILE, 'wb') as f:
+        pickle.dump(embeddings, f)
+    print(f"Embeddings cached to {EMBEDDING_CACHE_FILE}")
+
+# Load Cached Embeddings from Disk
+def load_cached_embeddings():
+    if os.path.exists(EMBEDDING_CACHE_FILE):
+        with open(EMBEDDING_CACHE_FILE, 'rb') as f:
+            return pickle.load(f)
+    return None
+
 # Precompute and Cache Question Embeddings
 def cache_question_embeddings():
     global question_embeddings
-    question_embeddings = get_embeddings(questions)
+    cached = load_cached_embeddings()
+    if cached:
+        print("Loaded embeddings from cache.")
+        question_embeddings = cached
+    else:
+        question_embeddings = get_embeddings(questions)
+        cache_embeddings_to_disk(question_embeddings)
 
 # Function to find the closest question using cosine similarity
 def find_closest_question(user_question, threshold=0.5):
@@ -64,7 +88,7 @@ def generate_response(user_question):
     else:
         return answer
 
-@app.route('/chat', methods=['POST'])  # POST is more appropriate for chat
+@app.route('/chat', methods=['POST'])
 def chat():
     data = request.json
     user_question = data.get('question', '').strip()
@@ -80,9 +104,9 @@ def chat():
 @app.before_first_request
 def initialize():
     global questions, answers
-    # Load model and tokenizer once
+    # Load model and tokenizer lazily
     load_bert_model()
-    
+
     # Load the questions and answers from JSON file
     try:
         questions, answers = load_data()
@@ -99,4 +123,4 @@ def handler(event, context):
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
-    app.run(debug=True,port=port)
+    app.run(debug=True, port=port)
