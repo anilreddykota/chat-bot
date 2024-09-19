@@ -6,3 +6,4 @@ flask-cors
 transformers
 torch
 scikit-learn
+uvicorn
